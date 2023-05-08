@@ -1,7 +1,7 @@
 ﻿using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
-using BlazorAdmin.Services;
+using BlazorAdmin.Services;  // this is a change
 using Blazored.LocalStorage;
 using BlazorShared;
 using Microsoft.AspNetCore.Authentication.Cookies;
